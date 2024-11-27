@@ -1,0 +1,17 @@
+.red {
+    color: #FF0000;
+  }
+  body{
+    background-color: #F5DCA2;
+    font-family: Comic Sans MS, Arial;
+  }
+  .boxBackground{
+    background-color:  #A3DEE5;
+    font-family: Comic Sans MS, Arial;
+    border-radius: 5px;
+    border-color: #000000;
+    font-size: 15px;
+  }
+  b{
+    font-size: 17px;
+  }
